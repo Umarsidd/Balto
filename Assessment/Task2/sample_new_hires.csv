@@ -1,0 +1,6 @@
+First Name,Last Name,Personal Email,Work Email,Department,Job Title,Country,Start Date,Manager Email,Manager Approval Ticket,Employment Type
+Avery,Stone,avery.personal@example.com,avery.stone@balto.com,Engineering,Software Engineer,United States,2026-08-03,manager@balto.com,IT-1234,Full-time
+Mina,Patel,mina.personal@example.com,mina.patel@balto.com,Sales,Account Executive,India,08/10/2026,revenue.manager@balto.com,,Full-time
+Jordan,Lee,jordan.personal@example.com,jordan.lee@external.com,Finance,Finance Analyst,Canada,2026-08-12,finance.manager@balto.com,FIN-9801,Full-time
+Casey,Rivera,casey.personal@example.com,casey.rivera@balto.com,People,People Operations,Spain,2026-08-15,people.manager@balto.com,HR-1020,Full-time
+Taylor,Nguyen,taylor.personal@example.com,avery.stone@balto.com,Customer Success,Customer Success Manager,Australia,not-a-date,cs.manager@balto.com,,Contractor
